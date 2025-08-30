@@ -1,0 +1,11 @@
+============================================================
+SAR MODEL TESTING REPORT
+============================================================
+Generated: 2025-08-27 16:24:05
+Model: runs\detect\train\weights\best.pt
+Dataset: C:\College\Disaster Management Project\dataset\search-and-rescue-2
+
+Official evaluation failed: Dataset 'C://College/Disaster Management Project/dataset/search-and-rescue-2/data.yaml' images not found, missing path 'C:\College\Disaster Management Project\dataset\search-and-rescue-2\val\images'
+Note dataset download directory is 'C:\College\Disaster Management Project\datasets'. You can update this in 'C:\Users\dhyan\AppData\Roaming\Ultralytics\settings.json'
+
+Confidence analysis failed: RGBA values should be within 0-1 range
